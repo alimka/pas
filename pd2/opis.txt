@@ -1,0 +1,7 @@
+Niestety nie udało mi się spełnić wszystkich wymagań specyfikacji. Podstawowe braki w programie to:
+
+Server
+    - brak parsowania strony z pogodą, używam sztucznego cache'a
+
+Klient
+    - brak parsowania odpowiedzi zwrotnej, wypisuje informacje w takiej postaci w jakiej je dostaje
